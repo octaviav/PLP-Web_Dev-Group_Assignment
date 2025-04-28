@@ -45,7 +45,7 @@ This website is a portfolio for a UI/UX designer named John Watson, featuring:
 
 ## Screenshots
 
-![Portfolio Website Screenshot](images/screenshot.jpeg.png)
+![Portfolio Website Screenshot](images/screenshot.jpeg)
 *Screenshot of the John Watson UI Portfolio website*
 
 ## Implementation Notes
