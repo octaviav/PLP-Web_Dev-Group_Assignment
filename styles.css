@@ -774,7 +774,7 @@ footer {
 .side-nav {
     position: fixed;
     right: 30px;
-    top: 30%;
+    top: 70%;
     transform: translateY(-50%);
     z-index: 100;
     border-radius: 10px;
